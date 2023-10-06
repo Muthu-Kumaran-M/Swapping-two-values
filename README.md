@@ -18,6 +18,17 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+#swappig of two variables
+#Developedd by : Muthu Kumaran
+#Register Number : 23006606
+n1=int(input())
+n2=int(input())
+n1=temp
+n2=n1
+n2=temp
+print("the swapped values are")
+```
 
 
 
