@@ -19,15 +19,15 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
-#swappig of two variables
-#Developedd by : Muthu Kumaran
+#Program to swapping of two variables
+#Developedd by : Muthu Kumaran M
 #Register Number : 23006606
-n1=int(input())
-n2=int(input())
-n1=temp
-n2=n1
+n1=eval(input())
+n2=eval(input())
+temp=n1
+n1=n2
 n2=temp
-print("the swapped values are")
+print("Swapped values are:",n1.n2)
 ```
 
 
